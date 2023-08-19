@@ -11,13 +11,13 @@ This repository contains procedural programming tasks that I did using C languag
 7. [T06 | Function](https://github.com/Estomihi100103/procedural-programing-task/tree/main/2122-ge-t06-function-Estomihi100103) 
 8. [T07 | Indirection](https://github.com/Estomihi100103/procedural-programing-task/tree/main/2122-ge-t07-indirection-Estomihi100103) 
 9. [T08 | Dynamic Memory Allocation](https://github.com/Estomihi100103/procedural-programing-task/tree/main/2122-ge-t08-dynamic-memory-allocation-Estomihi100103) 
-<!-- 10. [T09 | Pointer To Function]() 
-11. [T10 | File Operation]()  -->
+10. [T09 | Pointer To Function](https://github.com/Estomihi100103/procedural-programing-task/tree/main/2122-ge-t09-pointer-to-function-Estomihi100103)
+11. [T10 | File Operation](https://github.com/Estomihi100103/procedural-programing-task/tree/main/2122-ge-t10-file-operation-Estomihi100103)
 
 ## `Programming Quiz Tasks`
 1. [Q01 | Quiz for Mid Exam](https://github.com/Estomihi100103/procedural-programing-task/tree/main/2122-ge-q01-bubbled-Estomihi100103)
-<!-- 2. [Q02 | Quiz for Final Exam]()  -->
+
 
 ## `Programming Exam Tasks`
 1. [M01 | Mid Exam](https://github.com/Estomihi100103/procedural-programing-task/tree/main/2122-ge-m01-good-students-Estomihi100103)
-<!-- 2. [F01 | Final Exam]()  -->
+2. [F01 | Final Exam](https://github.com/Estomihi100103/procedural-programing-task/tree/main/2122-ge-f01-final-exam-Estomihi100103)  
